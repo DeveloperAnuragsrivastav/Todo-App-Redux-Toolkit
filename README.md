@@ -121,7 +121,7 @@ The state of the application is managed using **Redux Toolkit**. The state inclu
 
 Here's an live preview of how the app looks:
 
-https://vercel.com/anurag-srivastavs-projects/todo-app-redux-toolkit
+https://todo-app-redux-toolkit-fawn.vercel.app/
 
 ---
 
